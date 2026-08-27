@@ -1,1 +1,0 @@
-Create catalog output schema

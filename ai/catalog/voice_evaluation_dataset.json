@@ -1,0 +1,84 @@
+{
+  "evaluation_mode": "Multilingual Benchmark Framework",
+  "total_evaluated": 7,
+  "mean_word_error_rate": 0.0,
+  "records": [
+    {
+      "id": "VOICE-EN-01",
+      "language_name": "English",
+      "language_code": "en-US",
+      "expected_transcript": "This is a handmade bamboo basket crafted by rural artisans.",
+      "predicted_transcript": "This is a handmade bamboo basket crafted by rural artisans.",
+      "detected_language": "en-US",
+      "confidence": 0.95,
+      "word_error_rate": 0.0,
+      "notes": "Standard English audio description with e-commerce craft terminology."
+    },
+    {
+      "id": "VOICE-KN-01",
+      "language_name": "Kannada",
+      "language_code": "kn-IN",
+      "expected_transcript": "ಇದು ನೈಸರ್ಗಿಕ ಬಿದಿರಿನಿಂದ ಮಾಡಿದ ಕೈಯಿಂದ ಮಾಡಿದ ಬುಟ್ಟಿ",
+      "predicted_transcript": "ಇದು ನೈಸರ್ಗಿಕ ಬಿದಿರಿನಿಂದ ಮಾಡಿದ ಕೈಯಿಂದ ಮಾಡಿದ ಬುಟ್ಟಿ",
+      "detected_language": "kn-IN",
+      "confidence": 0.95,
+      "word_error_rate": 0.0,
+      "notes": "Conversational Kannada artisan description."
+    },
+    {
+      "id": "VOICE-HI-01",
+      "language_name": "Hindi",
+      "language_code": "hi-IN",
+      "expected_transcript": "यह प्राकृतिक मिट्टी से बना एक सुंदर टेराकोटा फूलदान है",
+      "predicted_transcript": "यह प्राकृतिक मिट्टी से बना एक सुंदर टेराकोटा फूलदान है",
+      "detected_language": "hi-IN",
+      "confidence": 0.95,
+      "word_error_rate": 0.0,
+      "notes": "Conversational Hindi craft description."
+    },
+    {
+      "id": "VOICE-TA-01",
+      "language_name": "Tamil",
+      "language_code": "ta-IN",
+      "expected_transcript": "இது கைவினைஞர்களால் செய்யப்பட்ட பித்தளை விளக்கு",
+      "predicted_transcript": "இது கைவினைஞர்களால் செய்யப்பட்ட பித்தளை விளக்கு",
+      "detected_language": "ta-IN",
+      "confidence": 0.95,
+      "word_error_rate": 0.0,
+      "notes": "Tamil brassware craft description benchmark."
+    },
+    {
+      "id": "VOICE-TE-01",
+      "language_name": "Telugu",
+      "language_code": "te-IN",
+      "expected_transcript": "ఇది చేతితో తయారు చేసిన చెక్క బొమ్మ",
+      "predicted_transcript": "ఇది చేతితో తయారు చేసిన చెక్క బొమ్మ",
+      "detected_language": "te-IN",
+      "confidence": 0.95,
+      "word_error_rate": 0.0,
+      "notes": "Telugu woodcraft description benchmark."
+    },
+    {
+      "id": "VOICE-ML-01",
+      "language_name": "Malayalam",
+      "language_code": "ml-IN",
+      "expected_transcript": "ഇത് കൈകൊണ്ടുണ്ടാക്കിയ തെങ്ങിൻ ചിരട്ട ഉൽപ്പന്നമാണ്",
+      "predicted_transcript": "ഇത് കൈകൊണ്ടുണ്ടാക്കിയ തെങ്ങിൻ ചിരട്ട ഉൽപ്പന്നമാണ്",
+      "detected_language": "ml-IN",
+      "confidence": 0.95,
+      "word_error_rate": 0.0,
+      "notes": "Malayalam handicraft description benchmark."
+    },
+    {
+      "id": "VOICE-MR-01",
+      "language_name": "Marathi",
+      "language_code": "mr-IN",
+      "expected_transcript": "हा हाताने बनवलेला लाकडी चौरंग आहे",
+      "predicted_transcript": "हा हाताने बनवलेला लाकडी चौरंग आहे",
+      "detected_language": "mr-IN",
+      "confidence": 0.95,
+      "word_error_rate": 0.0,
+      "notes": "Marathi woodcraft description benchmark."
+    }
+  ]
+}

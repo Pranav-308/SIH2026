@@ -1,0 +1,49 @@
+{
+  "test_name": "REAL End-to-End Voice + Image Smart Catalog API Test",
+  "timestamp": "2026-08-28T15:54:00+05:30",
+  "working_directory": "C:\\SIH2026\\ai\\catalog",
+  "inputs": {
+    "audio_file": "test_audio/test_kannada.mpeg",
+    "audio_mime_type": "audio/mpeg",
+    "image_file": "sample_images/terracotta_vase.jpg",
+    "language_hint": "kn-IN"
+  },
+  "pipeline_execution": {
+    "step_1_stt": {
+      "model_used": "gemini-3.6-flash",
+      "transcribed_text": "ಇದು ಮಣ್ಣಿನಿಂದ ಮಾಡಿದ ಮಡಿಕೆ",
+      "detected_language": "kn-IN",
+      "confidence": 1.0
+    },
+    "step_2_catalog_generation": {
+      "model_used": "gemini-3.6-flash",
+      "final_catalog": {
+        "product_name": "Handcrafted Terracotta Clay Vase",
+        "category": "Pottery",
+        "description": "An artisanally crafted terracotta clay vase featuring a modern geometric silhouette and natural warm earthen finish. Ideal for enhancing your home decor with a rustic yet contemporary aesthetic.",
+        "materials": [
+          "Terracotta",
+          "Clay"
+        ],
+        "craft_type": "Terracotta",
+        "colors": [
+          "Terracotta",
+          "Brown",
+          "Rust"
+        ],
+        "tags": [
+          "Terracotta Vase",
+          "Clay Pot",
+          "Pottery",
+          "Home Decor",
+          "Artisanal",
+          "Earthenware"
+        ],
+        "confidence_score": 0.95
+      }
+    }
+  },
+  "test_suite_status": "27/27 PASSED",
+  "errors": null,
+  "status": "SUCCESS"
+}

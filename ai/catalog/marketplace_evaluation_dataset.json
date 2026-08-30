@@ -1,0 +1,95 @@
+[
+  {
+    "eval_id": "EVAL-MKT-001",
+    "description": "Terracotta flower vase in Karnataka within budget",
+    "search_query": {
+      "query": "terracotta vase",
+      "category": "Pottery",
+      "location": "Karnataka",
+      "price_min": 300.0,
+      "price_max": 1500.0
+    },
+    "expected_top_product_id": "MP-POT-001",
+    "expected_category": "Pottery",
+    "expected_top_3_product_ids": ["MP-POT-001", "MP-POT-002", "MP-WOOD-001"]
+  },
+  {
+    "eval_id": "EVAL-MKT-002",
+    "description": "Jaipur blue pottery ceramic vase",
+    "search_query": {
+      "query": "blue pottery vase",
+      "category": "Pottery",
+      "craft_type": "Blue Pottery",
+      "location": "Rajasthan"
+    },
+    "expected_top_product_id": "MP-POT-002",
+    "expected_category": "Pottery",
+    "expected_top_3_product_ids": ["MP-POT-002", "MP-POT-001"]
+  },
+  {
+    "eval_id": "EVAL-MKT-003",
+    "description": "Channapatna wooden toy in Karnataka",
+    "search_query": {
+      "query": "wooden toy",
+      "category": "Wood craft",
+      "craft_type": "Channapatna Toy",
+      "location": "Karnataka",
+      "price_max": 1000.0
+    },
+    "expected_top_product_id": "MP-WOOD-001",
+    "expected_category": "Wood craft",
+    "expected_top_3_product_ids": ["MP-WOOD-001", "MP-WOOD-002"]
+  },
+  {
+    "eval_id": "EVAL-MKT-004",
+    "description": "Silk bandhani saree dupatta in Gujarat",
+    "search_query": {
+      "query": "silk bandhani dupatta",
+      "category": "Textiles",
+      "craft_type": "Bandhani",
+      "location": "Gujarat"
+    },
+    "expected_top_product_id": "MP-TEX-001",
+    "expected_category": "Textiles",
+    "expected_top_3_product_ids": ["MP-TEX-001", "MP-TEX-002"]
+  },
+  {
+    "eval_id": "EVAL-MKT-005",
+    "description": "Dhokra brass tribal figurine in Odisha",
+    "search_query": {
+      "query": "dhokra brass figurine",
+      "category": "Metal craft",
+      "craft_type": "Dhokra",
+      "location": "Odisha"
+    },
+    "expected_top_product_id": "MP-MET-001",
+    "expected_category": "Metal craft",
+    "expected_top_3_product_ids": ["MP-MET-001", "MP-MET-002"]
+  },
+  {
+    "eval_id": "EVAL-MKT-006",
+    "description": "Kolhapuri leather footwear in Maharashtra",
+    "search_query": {
+      "query": "kolhapuri leather footwear",
+      "category": "Leather craft",
+      "craft_type": "Kolhapuri Leather",
+      "location": "Maharashtra"
+    },
+    "expected_top_product_id": "MP-LEA-001",
+    "expected_category": "Leather craft",
+    "expected_top_3_product_ids": ["MP-LEA-001", "MP-LEA-002"]
+  },
+  {
+    "eval_id": "EVAL-MKT-007",
+    "description": "Madhubani folk art painting in Bihar",
+    "search_query": {
+      "query": "madhubani painting",
+      "category": "Paintings",
+      "craft_type": "Madhubani Painting",
+      "location": "Bihar"
+    },
+    "expected_top_product_id": "MP-PNT-001",
+    "expected_category": "Paintings",
+    "expected_top_3_product_ids": ["MP-PNT-001", "MP-PNT-002"]
+  }
+]

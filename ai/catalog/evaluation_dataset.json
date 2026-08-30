@@ -1,0 +1,361 @@
+{
+  "evaluation_mode": "Live Gemini API",
+  "total_evaluated": 8,
+  "metrics": {
+    "category_accuracy_percent": 75.0,
+    "craft_type_accuracy_percent": 100.0,
+    "field_completeness_percent": 100.0,
+    "mean_confidence_score": 0.95
+  },
+  "records": [
+    {
+      "id": "PROD-001",
+      "product_name": "Bamboo Storage Basket",
+      "artisan_description": "Hand-woven storage basket made from natural eco-friendly bamboo strips.",
+      "ground_truth": {
+        "expected_category": "Home Decor & Storage",
+        "expected_craft_type": "Bamboo & Cane Craft",
+        "expected_materials": [
+          "Bamboo",
+          "Natural Fiber"
+        ]
+      },
+      "ai_prediction": {
+        "product_name": "Handcrafted Natural Bamboo Woven Storage Basket",
+        "category": "Home Decor",
+        "description": "Beautifully hand-woven using natural eco-friendly bamboo strips, this versatile storage basket showcases traditional craft techniques. Perfect for organizing household essentials while adding a rustic, natural charm to your living space.",
+        "materials": [
+          "Bamboo"
+        ],
+        "craft_type": "Bamboo Craft",
+        "colors": [
+          "Brown",
+          "Beige"
+        ],
+        "tags": [
+          "bamboo basket",
+          "handwoven",
+          "eco-friendly",
+          "storage basket",
+          "home decor",
+          "handicrafts"
+        ],
+        "confidence_score": 0.95
+      },
+      "metrics": {
+        "category_correct": true,
+        "craft_type_correct": true,
+        "field_completeness": "8/8",
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "PROD-002",
+      "product_name": "Terracotta Painted Vase",
+      "artisan_description": "Hand-molded terracotta clay vase painted with natural floral motifs.",
+      "ground_truth": {
+        "expected_category": "Home Decor & Pottery",
+        "expected_craft_type": "Terracotta Pottery",
+        "expected_materials": [
+          "Terracotta Clay",
+          "Natural Dyes"
+        ]
+      },
+      "ai_prediction": {
+        "product_name": "Handcrafted Terracotta Clay Vase",
+        "category": "Home Decor",
+        "description": "A beautiful hand-molded terracotta clay vase offering a timeless, rustic charm. Crafted using traditional pottery techniques, this decorative vase brings earthy elegance and artisan craftsmanship into any living space.",
+        "materials": [
+          "Terracotta",
+          "Clay"
+        ],
+        "craft_type": "Terracotta",
+        "colors": [
+          "Terracotta",
+          "Brown",
+          "White"
+        ],
+        "tags": [
+          "Terracotta",
+          "Clay Vase",
+          "Handmade Vase",
+          "Home Decor",
+          "Pottery",
+          "Artisanal Craft",
+          "Earthy Decor"
+        ],
+        "confidence_score": 0.92
+      },
+      "metrics": {
+        "category_correct": true,
+        "craft_type_correct": true,
+        "field_completeness": "8/8",
+        "confidence_score": 0.92
+      }
+    },
+    {
+      "id": "PROD-003",
+      "product_name": "Traditional Brass Oil Lamp (Diya)",
+      "artisan_description": "Solid brass oil lamp hand-cast for festivals and home prayer decor.",
+      "ground_truth": {
+        "expected_category": "Home Decor & Metalware",
+        "expected_craft_type": "Brassware",
+        "expected_materials": [
+          "Brass"
+        ]
+      },
+      "ai_prediction": {
+        "product_name": "Handcrafted Traditional Brass Diya Oil Lamp",
+        "category": "Home Decor",
+        "description": "An exquisite hand-cast solid brass oil lamp designed for sacred rituals, festive decor, and daily prayer ceremonies. Crafted using traditional Indian brassware techniques, this diya brings a serene glow and auspicious aura to any home altar or living space.",
+        "materials": [
+          "Brass"
+        ],
+        "craft_type": "Brassware",
+        "colors": [
+          "Gold",
+          "Yellow",
+          "Orange"
+        ],
+        "tags": [
+          "Brass Diya",
+          "Oil Lamp",
+          "Puja Decor",
+          "Diwali Lamp",
+          "Indian Handicrafts",
+          "Metalcraft",
+          "Festive Lighting"
+        ],
+        "confidence_score": 0.95
+      },
+      "metrics": {
+        "category_correct": true,
+        "craft_type_correct": true,
+        "field_completeness": "8/8",
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "PROD-004",
+      "product_name": "Madhubani Folk Painting",
+      "artisan_description": "Traditional Mithila Madhubani painting drawn on handmade paper using natural twig brushes.",
+      "ground_truth": {
+        "expected_category": "Wall Art & Folk Art",
+        "expected_craft_type": "Madhubani Painting",
+        "expected_materials": [
+          "Paper",
+          "Natural Dyes"
+        ]
+      },
+      "ai_prediction": {
+        "product_name": "Handmade Madhubani Folk Painting on Handmade Paper",
+        "category": "Home Decor",
+        "description": "An authentic traditional Mithila Madhubani folk painting carefully hand-painted on premium handmade paper using natural twig brushes. Featuring minimal stylized geometric motifs in vibrant green and yellow, this unique artwork brings timeless Indian folk art traditions into contemporary interior decor.",
+        "materials": [
+          "Handmade Paper",
+          "Natural Pigments"
+        ],
+        "craft_type": "Madhubani Painting",
+        "colors": [
+          "Green",
+          "Yellow",
+          "Cream",
+          "Maroon"
+        ],
+        "tags": [
+          "Madhubani Painting",
+          "Mithila Art",
+          "Folk Art",
+          "Wall Painting",
+          "Handmade Paper Art",
+          "Traditional Indian Decor"
+        ],
+        "confidence_score": 0.95
+      },
+      "metrics": {
+        "category_correct": false,
+        "craft_type_correct": true,
+        "field_completeness": "8/8",
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "PROD-005",
+      "product_name": "Bandhani Tie-Dye Saree",
+      "artisan_description": "Authentic Gujarati Bandhani silk saree with traditional resist-dyed dots.",
+      "ground_truth": {
+        "expected_category": "Apparel & Textiles",
+        "expected_craft_type": "Bandhani Tie-Dye",
+        "expected_materials": [
+          "Silk",
+          "Dyes"
+        ]
+      },
+      "ai_prediction": {
+        "product_name": "Handcrafted Red Gujarati Bandhani Silk Saree",
+        "category": "Apparel",
+        "description": "An authentic Gujarati Bandhani silk saree featuring vibrant red fabric adorned with classic yellow and white resist-dyed dot patterns. Handcrafted using traditional tie-dye techniques for a rich heritage aesthetic.",
+        "materials": [
+          "Silk"
+        ],
+        "craft_type": "Bandhani",
+        "colors": [
+          "Red",
+          "Yellow",
+          "White"
+        ],
+        "tags": [
+          "Bandhani Saree",
+          "Silk Saree",
+          "Gujarati Craft",
+          "Resist Dye",
+          "Traditional Wear",
+          "Handloom"
+        ],
+        "confidence_score": 0.95
+      },
+      "metrics": {
+        "category_correct": true,
+        "craft_type_correct": true,
+        "field_completeness": "8/8",
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "PROD-006",
+      "product_name": "Channapatna Stacking Toy",
+      "artisan_description": "Safe wooden stacking toy finished with non-toxic vegetable lacquer dyes.",
+      "ground_truth": {
+        "expected_category": "Toys & Games",
+        "expected_craft_type": "Channapatna Woodcraft",
+        "expected_materials": [
+          "Wood",
+          "Vegetable Lacquer"
+        ]
+      },
+      "ai_prediction": {
+        "product_name": "Handcrafted Channapatna Wooden Stacking Toy",
+        "category": "Woodcraft",
+        "description": "A vibrant and safe handcrafted wooden stacking toy made using traditional Channapatna craft techniques. Colored with natural, non-toxic vegetable lacquer dyes, this eco-friendly toy features bright primary shapes designed to engage children while supporting traditional Indian artisans.",
+        "materials": [
+          "Ivory Wood",
+          "Vegetable Dyes",
+          "Lacquer"
+        ],
+        "craft_type": "Channapatna Craft",
+        "colors": [
+          "Yellow",
+          "Red",
+          "Blue"
+        ],
+        "tags": [
+          "Channapatna",
+          "Wooden Toy",
+          "Stacking Toy",
+          "Eco-friendly",
+          "Handcrafted",
+          "Kids Toy",
+          "Vegetable Dye"
+        ],
+        "confidence_score": 0.95
+      },
+      "metrics": {
+        "category_correct": false,
+        "craft_type_correct": true,
+        "field_completeness": "8/8",
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "PROD-007",
+      "product_name": "Kantha Embroidered Stole",
+      "artisan_description": "Hand-stitched Kantha embroidery stole crafted by rural Bengal craftswomen.",
+      "ground_truth": {
+        "expected_category": "Apparel & Accessories",
+        "expected_craft_type": "Kantha Embroidery",
+        "expected_materials": [
+          "Cotton",
+          "Embroidery Thread"
+        ]
+      },
+      "ai_prediction": {
+        "product_name": "Handcrafted Kantha Stitch Embroidered Stole",
+        "category": "Accessories",
+        "description": "An elegant hand-stitched Kantha embroidery stole meticulously crafted by rural craftswomen from West Bengal. Featuring timeless running stitch patterns in deep contrasting thread over a soft fabric base, this versatile stole adds an artisanal accent to modern and traditional outfits alike.",
+        "materials": [
+          "Cotton",
+          "Silk"
+        ],
+        "craft_type": "Kantha",
+        "colors": [
+          "Off-White",
+          "Navy Blue"
+        ],
+        "tags": [
+          "Kantha",
+          "Stole",
+          "Handmade",
+          "Embroidery",
+          "Scarf",
+          "Bengal Craft",
+          "Handloom",
+          "Traditional"
+        ],
+        "confidence_score": 0.95
+      },
+      "metrics": {
+        "category_correct": true,
+        "craft_type_correct": true,
+        "field_completeness": "8/8",
+        "confidence_score": 0.95
+      }
+    },
+    {
+      "id": "PROD-008",
+      "product_name": "Jaipur Blue Pottery Decorative Tile",
+      "artisan_description": "Handcrafted quartz-based blue pottery tile featuring traditional royal floral motifs.",
+      "ground_truth": {
+        "expected_category": "Home Decor & Ceramics",
+        "expected_craft_type": "Blue Pottery",
+        "expected_materials": [
+          "Quartz",
+          "Glass",
+          "Cobalt Dye"
+        ]
+      },
+      "ai_prediction": {
+        "product_name": "Handcrafted Jaipur Blue Pottery Decorative Tile",
+        "category": "Home Decor",
+        "description": "A beautifully handcrafted quartz-based Jaipur Blue Pottery tile showcasing striking shade transitions from deep cobalt blue to vibrant azure, bordered with a clean white rim and teal edge. Ideal as an elegant accent piece for home interiors, wall decor, or tabletop styling.",
+        "materials": [
+          "Quartz",
+          "Glass",
+          "Clay",
+          "Glaze"
+        ],
+        "craft_type": "Blue Pottery",
+        "colors": [
+          "Cobalt Blue",
+          "Azure Blue",
+          "Teal",
+          "White"
+        ],
+        "tags": [
+          "Jaipur Blue Pottery",
+          "Handmade Tile",
+          "Home Decor",
+          "Indian Craft",
+          "Ceramic Tile",
+          "Artisanal Decor"
+        ],
+        "confidence_score": 0.95
+      },
+      "metrics": {
+        "category_correct": true,
+        "craft_type_correct": true,
+        "field_completeness": "8/8",
+        "confidence_score": 0.95
+      }
+    }
+  ]
+}

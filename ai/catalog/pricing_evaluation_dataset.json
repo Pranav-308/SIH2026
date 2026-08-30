@@ -1,0 +1,107 @@
+[
+  {
+    "eval_id": "EVAL-PRICE-001",
+    "catalog": {
+      "product_name": "Handcrafted Geometric Terracotta Clay Vase",
+      "category": "Pottery",
+      "description": "An exquisitely handcrafted terracotta clay vase featuring a geometric silhouette.",
+      "materials": ["Clay", "Terracotta"],
+      "craft_type": "Terracotta",
+      "colors": ["Terracotta", "Rust", "Brown"],
+      "tags": ["Terracotta Vase", "Pottery", "Clay Decor"],
+      "confidence_score": 0.95
+    },
+    "material_cost_inr": 150.0,
+    "labor_hours": 6.0,
+    "artisan_hourly_wage_inr": 100.0,
+    "packaging_shipping_cost_inr": 50.0,
+    "market_tier": "Fair Trade / Artisanal",
+    "ground_truth_actual_price_inr": 950.0,
+    "ground_truth_min_price_inr": 800.0,
+    "ground_truth_max_price_inr": 1200.0
+  },
+  {
+    "eval_id": "EVAL-PRICE-002",
+    "catalog": {
+      "product_name": "Jaipur Blue Pottery Floral Pattern Vase",
+      "category": "Pottery",
+      "description": "Authentic Jaipur blue pottery decorative vase.",
+      "materials": ["Quartz Stone Powder", "Glass"],
+      "craft_type": "Blue Pottery",
+      "colors": ["Blue", "White"],
+      "tags": ["blue pottery", "jaipur", "vase"],
+      "confidence_score": 0.92
+    },
+    "material_cost_inr": 350.0,
+    "labor_hours": 10.0,
+    "artisan_hourly_wage_inr": 100.0,
+    "packaging_shipping_cost_inr": 100.0,
+    "market_tier": "Fair Trade / Artisanal",
+    "ground_truth_actual_price_inr": 1650.0,
+    "ground_truth_min_price_inr": 1450.0,
+    "ground_truth_max_price_inr": 2200.0
+  },
+  {
+    "eval_id": "EVAL-PRICE-003",
+    "catalog": {
+      "product_name": "Silk Bandhani Tie-Dye Dupatta",
+      "category": "Apparel",
+      "description": "Traditional silk Bandhani tie and dye stole dupatta.",
+      "materials": ["Silk"],
+      "craft_type": "Bandhani",
+      "colors": ["Red", "Yellow"],
+      "tags": ["bandhani", "silk", "dupatta"],
+      "confidence_score": 0.90
+    },
+    "material_cost_inr": 800.0,
+    "labor_hours": 20.0,
+    "artisan_hourly_wage_inr": 100.0,
+    "packaging_shipping_cost_inr": 80.0,
+    "market_tier": "Premium / Export",
+    "ground_truth_actual_price_inr": 3800.0,
+    "ground_truth_min_price_inr": 2880.0,
+    "ground_truth_max_price_inr": 4800.0
+  },
+  {
+    "eval_id": "EVAL-PRICE-004",
+    "catalog": {
+      "product_name": "Hand-engraved Antique Brass Diya",
+      "category": "Metalcraft",
+      "description": "Traditional solid brass oil lamp with fine engraving.",
+      "materials": ["Brass"],
+      "craft_type": "Brassware",
+      "colors": ["Brass", "Gold"],
+      "tags": ["brass", "diya", "lamp"],
+      "confidence_score": 0.94
+    },
+    "material_cost_inr": 250.0,
+    "labor_hours": 7.0,
+    "artisan_hourly_wage_inr": 100.0,
+    "packaging_shipping_cost_inr": 50.0,
+    "market_tier": "Fair Trade / Artisanal",
+    "ground_truth_actual_price_inr": 1300.0,
+    "ground_truth_min_price_inr": 1000.0,
+    "ground_truth_max_price_inr": 1700.0
+  },
+  {
+    "eval_id": "EVAL-PRICE-005",
+    "catalog": {
+      "product_name": "Channapatna Eco Wooden Stacking Toy",
+      "category": "Woodcraft",
+      "description": "Safe vegetable-dyed wooden stacking toy for children.",
+      "materials": ["Ivory Wood", "Vegetable Dyes"],
+      "craft_type": "Channapatna Toy",
+      "colors": ["Multicolor"],
+      "tags": ["channapatna", "wooden toy", "kids"],
+      "confidence_score": 0.96
+    },
+    "material_cost_inr": 100.0,
+    "labor_hours": 4.0,
+    "artisan_hourly_wage_inr": 100.0,
+    "packaging_shipping_cost_inr": 40.0,
+    "market_tier": "Mass Market",
+    "ground_truth_actual_price_inr": 680.0,
+    "ground_truth_min_price_inr": 540.0,
+    "ground_truth_max_price_inr": 900.0
+  }
+]

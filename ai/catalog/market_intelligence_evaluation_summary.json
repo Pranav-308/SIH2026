@@ -1,0 +1,53 @@
+{
+  "trend_identification_accuracy_percent": 100.0,
+  "category_demand_accuracy_percent": 100.0,
+  "artisan_insight_relevance_rate_percent": 100.0,
+  "total_test_queries": 5,
+  "results": [
+    {
+      "eval_id": "EVAL-MI-001",
+      "description": "Terracotta pottery analysis in Karnataka",
+      "demand_level": "Very High",
+      "market_opportunity": "Favorable",
+      "trend_identification_hit": true,
+      "category_demand_hit": true,
+      "insight_relevance_hit": true
+    },
+    {
+      "eval_id": "EVAL-MI-002",
+      "description": "Jaipur blue pottery analysis in Rajasthan",
+      "demand_level": "Very High",
+      "market_opportunity": "Strong",
+      "trend_identification_hit": true,
+      "category_demand_hit": true,
+      "insight_relevance_hit": true
+    },
+    {
+      "eval_id": "EVAL-MI-003",
+      "description": "Bamboo craft analysis in Assam",
+      "demand_level": "High",
+      "market_opportunity": "Favorable",
+      "trend_identification_hit": true,
+      "category_demand_hit": true,
+      "insight_relevance_hit": true
+    },
+    {
+      "eval_id": "EVAL-MI-004",
+      "description": "Channapatna wooden toy analysis in Karnataka",
+      "demand_level": "High",
+      "market_opportunity": "Favorable",
+      "trend_identification_hit": true,
+      "category_demand_hit": true,
+      "insight_relevance_hit": true
+    },
+    {
+      "eval_id": "EVAL-MI-005",
+      "description": "Silk bandhani textiles analysis in Gujarat",
+      "demand_level": "High",
+      "market_opportunity": "Favorable",
+      "trend_identification_hit": true,
+      "category_demand_hit": true,
+      "insight_relevance_hit": true
+    }
+  ]
+}

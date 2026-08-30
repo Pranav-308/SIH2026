@@ -1,0 +1,78 @@
+{
+  "top_1_relevance_accuracy_percent": 100.0,
+  "top_3_relevance_accuracy_percent": 100.0,
+  "category_matching_accuracy_percent": 100.0,
+  "total_test_queries": 7,
+  "results": [
+    {
+      "eval_id": "EVAL-MKT-001",
+      "description": "Terracotta flower vase in Karnataka within budget",
+      "expected_top_id": "MP-POT-001",
+      "actual_top_id": "MP-POT-001",
+      "top_1_hit": true,
+      "top_3_hit": true,
+      "category_match_hit": true,
+      "top_score": 0.97
+    },
+    {
+      "eval_id": "EVAL-MKT-002",
+      "description": "Jaipur blue pottery ceramic vase",
+      "expected_top_id": "MP-POT-002",
+      "actual_top_id": "MP-POT-002",
+      "top_1_hit": true,
+      "top_3_hit": true,
+      "category_match_hit": true,
+      "top_score": 0.93
+    },
+    {
+      "eval_id": "EVAL-MKT-003",
+      "description": "Channapatna wooden toy in Karnataka",
+      "expected_top_id": "MP-WOOD-001",
+      "actual_top_id": "MP-WOOD-001",
+      "top_1_hit": true,
+      "top_3_hit": true,
+      "category_match_hit": true,
+      "top_score": 0.92
+    },
+    {
+      "eval_id": "EVAL-MKT-004",
+      "description": "Silk bandhani saree dupatta in Gujarat",
+      "expected_top_id": "MP-TEX-001",
+      "actual_top_id": "MP-TEX-001",
+      "top_1_hit": true,
+      "top_3_hit": true,
+      "category_match_hit": true,
+      "top_score": 1.0
+    },
+    {
+      "eval_id": "EVAL-MKT-005",
+      "description": "Dhokra brass tribal figurine in Odisha",
+      "expected_top_id": "MP-MET-001",
+      "actual_top_id": "MP-MET-001",
+      "top_1_hit": true,
+      "top_3_hit": true,
+      "category_match_hit": true,
+      "top_score": 0.94
+    },
+    {
+      "eval_id": "EVAL-MKT-006",
+      "description": "Kolhapuri leather footwear in Maharashtra",
+      "expected_top_id": "MP-LEA-001",
+      "actual_top_id": "MP-LEA-001",
+      "top_1_hit": true,
+      "top_3_hit": true,
+      "category_match_hit": true,
+      "top_score": 0.93
+    },
+    {
+      "eval_id": "EVAL-MKT-007",
+      "description": "Madhubani folk art painting in Bihar",
+      "expected_top_id": "MP-PNT-001",
+      "actual_top_id": "MP-PNT-001",
+      "top_1_hit": true,
+      "top_3_hit": true,
+      "category_match_hit": true,
+      "top_score": 0.92
+    }
+  ]
+}

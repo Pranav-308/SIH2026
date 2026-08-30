@@ -1,0 +1,63 @@
+{
+  "mape_percent": 12.26,
+  "floor_protection_rate_percent": 100.0,
+  "in_range_capture_rate_percent": 100.0,
+  "total_test_items": 5,
+  "results": [
+    {
+      "eval_id": "EVAL-PRICE-001",
+      "product_name": "Handcrafted Geometric Terracotta Clay Vase",
+      "ground_truth_price": 950.0,
+      "recommended_price": 1150.0,
+      "cost_floor": 920.0,
+      "percentage_error": 21.05,
+      "floor_protected": true,
+      "in_range": true,
+      "confidence_score": 0.82
+    },
+    {
+      "eval_id": "EVAL-PRICE-002",
+      "product_name": "Jaipur Blue Pottery Floral Pattern Vase",
+      "ground_truth_price": 1650.0,
+      "recommended_price": 1950.0,
+      "cost_floor": 1667.5,
+      "percentage_error": 18.18,
+      "floor_protected": true,
+      "in_range": true,
+      "confidence_score": 0.8
+    },
+    {
+      "eval_id": "EVAL-PRICE-003",
+      "product_name": "Silk Bandhani Tie-Dye Dupatta",
+      "ground_truth_price": 3800.0,
+      "recommended_price": 4200.0,
+      "cost_floor": 3312.0,
+      "percentage_error": 10.53,
+      "floor_protected": true,
+      "in_range": true,
+      "confidence_score": 0.72
+    },
+    {
+      "eval_id": "EVAL-PRICE-004",
+      "product_name": "Hand-engraved Antique Brass Diya",
+      "ground_truth_price": 1300.0,
+      "recommended_price": 1450.0,
+      "cost_floor": 1150.0,
+      "percentage_error": 11.54,
+      "floor_protected": true,
+      "in_range": true,
+      "confidence_score": 0.65
+    },
+    {
+      "eval_id": "EVAL-PRICE-005",
+      "product_name": "Channapatna Eco Wooden Stacking Toy",
+      "ground_truth_price": 680.0,
+      "recommended_price": 680.0,
+      "cost_floor": 621.0,
+      "percentage_error": 0.0,
+      "floor_protected": true,
+      "in_range": true,
+      "confidence_score": 0.61
+    }
+  ]
+}

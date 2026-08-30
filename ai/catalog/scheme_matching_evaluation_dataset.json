@@ -1,0 +1,74 @@
+[
+  {
+    "eval_id": "EVAL-SCHEME-001",
+    "description": "Terracotta pottery individual artisan in Karnataka",
+    "request": {
+      "craft_type": "Terracotta",
+      "location": "Karnataka",
+      "business_status": "Individual Artisan",
+      "registration_status": "Unregistered / Informal",
+      "age": 32,
+      "gender": "Female"
+    },
+    "expected_top_scheme_id": "SCHEME-KARNATAKA-ARTISAN",
+    "expected_top_3_scheme_ids": ["SCHEME-KARNATAKA-ARTISAN", "SCHEME-PM-VISHWAKARMA", "SCHEME-PEHCHAN-CARD"],
+    "expected_matched_count_min": 3
+  },
+  {
+    "eval_id": "EVAL-SCHEME-002",
+    "description": "Channapatna wooden toy artisan in Karnataka",
+    "request": {
+      "craft_type": "Channapatna Toy",
+      "location": "Karnataka",
+      "business_status": "Individual Artisan",
+      "registration_status": "Pehchan Card Registered",
+      "age": 45,
+      "gender": "Male"
+    },
+    "expected_top_scheme_id": "SCHEME-KARNATAKA-ARTISAN",
+    "expected_top_3_scheme_ids": ["SCHEME-KARNATAKA-ARTISAN", "SCHEME-PM-VISHWAKARMA", "SCHEME-PEHCHAN-CARD"],
+    "expected_matched_count_min": 3
+  },
+  {
+    "eval_id": "EVAL-SCHEME-003",
+    "description": "Female rural coir spinner in Assam",
+    "request": {
+      "craft_type": "Natural Fiber Craft",
+      "location": "Assam",
+      "business_status": "Individual Artisan",
+      "registration_status": "Unregistered / Informal",
+      "age": 28,
+      "gender": "Female"
+    },
+    "expected_top_scheme_id": "SCHEME-MAHILA-COIR",
+    "expected_top_3_scheme_ids": ["SCHEME-MAHILA-COIR", "SCHEME-PM-VISHWAKARMA", "SCHEME-PEHCHAN-CARD"],
+    "expected_matched_count_min": 3
+  },
+  {
+    "eval_id": "EVAL-SCHEME-004",
+    "description": "Silk bandhani saree SHG collective in Gujarat",
+    "request": {
+      "craft_type": "Bandhani",
+      "location": "Gujarat",
+      "business_status": "Self-Help Group (SHG)",
+      "registration_status": "Pehchan Card Registered"
+    },
+    "expected_top_scheme_id": "SCHEME-AHVY",
+    "expected_top_3_scheme_ids": ["SCHEME-AHVY", "SCHEME-PM-VISHWAKARMA", "SCHEME-PEHCHAN-CARD", "SCHEME-PMEGP"],
+    "expected_matched_count_min": 4
+  },
+  {
+    "eval_id": "EVAL-SCHEME-005",
+    "description": "Dhokra brassware micro-enterprise in Odisha seeking capital",
+    "request": {
+      "craft_type": "Dhokra",
+      "location": "Odisha",
+      "business_status": "Micro Enterprise",
+      "registration_status": "Udyam Registered"
+    },
+    "expected_top_scheme_id": "SCHEME-PMEGP",
+    "expected_top_3_scheme_ids": ["SCHEME-PMEGP", "SCHEME-PM-VISHWAKARMA", "SCHEME-AHVY", "SCHEME-PEHCHAN-CARD"],
+    "expected_matched_count_min": 4
+  }
+]
+

@@ -1,0 +1,59 @@
+{
+  "top_1_scheme_match_accuracy_percent": 60.0,
+  "top_3_scheme_match_accuracy_percent": 100.0,
+  "precision_at_k_percent": 100.0,
+  "official_source_verification_rate_percent": 100.0,
+  "total_test_profiles": 5,
+  "results": [
+    {
+      "eval_id": "EVAL-SCHEME-001",
+      "description": "Terracotta pottery individual artisan in Karnataka",
+      "expected_top_scheme_id": "SCHEME-KARNATAKA-ARTISAN",
+      "actual_top_scheme_id": "SCHEME-KARNATAKA-ARTISAN",
+      "top_1_hit": true,
+      "top_3_hit": true,
+      "precision_k_hit": true,
+      "total_matched": 6
+    },
+    {
+      "eval_id": "EVAL-SCHEME-002",
+      "description": "Channapatna wooden toy artisan in Karnataka",
+      "expected_top_scheme_id": "SCHEME-KARNATAKA-ARTISAN",
+      "actual_top_scheme_id": "SCHEME-KARNATAKA-ARTISAN",
+      "top_1_hit": true,
+      "top_3_hit": true,
+      "precision_k_hit": true,
+      "total_matched": 5
+    },
+    {
+      "eval_id": "EVAL-SCHEME-003",
+      "description": "Female rural coir spinner in Assam",
+      "expected_top_scheme_id": "SCHEME-MAHILA-COIR",
+      "actual_top_scheme_id": "SCHEME-MAHILA-COIR",
+      "top_1_hit": true,
+      "top_3_hit": true,
+      "precision_k_hit": true,
+      "total_matched": 5
+    },
+    {
+      "eval_id": "EVAL-SCHEME-004",
+      "description": "Silk bandhani saree SHG collective in Gujarat",
+      "expected_top_scheme_id": "SCHEME-AHVY",
+      "actual_top_scheme_id": "SCHEME-PM-VISHWAKARMA",
+      "top_1_hit": false,
+      "top_3_hit": true,
+      "precision_k_hit": true,
+      "total_matched": 5
+    },
+    {
+      "eval_id": "EVAL-SCHEME-005",
+      "description": "Dhokra brassware micro-enterprise in Odisha seeking capital",
+      "expected_top_scheme_id": "SCHEME-PMEGP",
+      "actual_top_scheme_id": "SCHEME-PM-VISHWAKARMA",
+      "top_1_hit": false,
+      "top_3_hit": true,
+      "precision_k_hit": true,
+      "total_matched": 5
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "eval_id": "EVAL-MI-001",
+    "description": "Terracotta pottery analysis in Karnataka",
+    "request": {
+      "location": "Karnataka",
+      "craft_type": "Terracotta",
+      "category": "Pottery"
+    },
+    "expected_demand_level": "Very High",
+    "expected_market_opportunity": "Strong",
+    "expected_trending_category": "Pottery",
+    "expected_trending_craft": "Terracotta"
+  },
+  {
+    "eval_id": "EVAL-MI-002",
+    "description": "Jaipur blue pottery analysis in Rajasthan",
+    "request": {
+      "location": "Rajasthan",
+      "craft_type": "Blue Pottery",
+      "category": "Pottery"
+    },
+    "expected_demand_level": "High",
+    "expected_market_opportunity": "Favorable",
+    "expected_trending_category": "Pottery",
+    "expected_trending_craft": "Terracotta"
+  },
+  {
+    "eval_id": "EVAL-MI-003",
+    "description": "Bamboo craft analysis in Assam",
+    "request": {
+      "location": "Assam",
+      "craft_type": "Bamboo Weaving",
+      "category": "Bamboo craft"
+    },
+    "expected_demand_level": "High",
+    "expected_market_opportunity": "Favorable",
+    "expected_trending_category": "Pottery",
+    "expected_trending_craft": "Terracotta"
+  },
+  {
+    "eval_id": "EVAL-MI-004",
+    "description": "Channapatna wooden toy analysis in Karnataka",
+    "request": {
+      "location": "Karnataka",
+      "craft_type": "Channapatna Toy",
+      "category": "Wood craft"
+    },
+    "expected_demand_level": "High",
+    "expected_market_opportunity": "Favorable",
+    "expected_trending_category": "Pottery",
+    "expected_trending_craft": "Terracotta"
+  },
+  {
+    "eval_id": "EVAL-MI-005",
+    "description": "Silk bandhani textiles analysis in Gujarat",
+    "request": {
+      "location": "Gujarat",
+      "craft_type": "Bandhani",
+      "category": "Textiles"
+    },
+    "expected_demand_level": "High",
+    "expected_market_opportunity": "Favorable",
+    "expected_trending_category": "Pottery",
+    "expected_trending_craft": "Terracotta"
+  }
+]

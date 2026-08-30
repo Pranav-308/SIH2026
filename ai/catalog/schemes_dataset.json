@@ -1,0 +1,138 @@
+[
+  {
+    "scheme_id": "SCHEME-PM-VISHWAKARMA",
+    "scheme_name": "PM Vishwakarma Yojana",
+    "ministry_department": "Ministry of Micro, Small & Medium Enterprises (MoMSME)",
+    "target_crafts": ["Pottery", "Woodcraft", "Blacksmith", "Terracotta", "Metalcraft", "Bamboo craft", "All Traditional Crafts"],
+    "target_locations": ["All India"],
+    "eligible_business_statuses": ["Individual Artisan", "Self-Help Group (SHG)", "Micro Enterprise"],
+    "eligible_registration_statuses": ["Pehchan Card Registered", "Udyam Registered", "Unregistered / Informal"],
+    "benefit_description": "₹15,000 Toolkit Grant + Collateral-free credit support up to ₹3 Lakh at 5% interest rate + PM Vishwakarma ID Card & Skill Training stipend.",
+    "eligibility_conditions": [
+      "Must be a traditional artisan or craftsman working with hands and tools.",
+      "Minimum age of 18 years at the date of registration.",
+      "One member per family eligible.",
+      "Must not have availed similar credit under PMEGP or MUDRA in last 5 years."
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Mobile number linked with Aadhaar",
+      "Bank Account Passbook",
+      "Ration Card"
+    ],
+    "official_source_url": "https://pmvishwakarma.gov.in/",
+    "last_verified_date": "2026-08-01",
+    "verification_status": "Official Verified"
+  },
+  {
+    "scheme_id": "SCHEME-PEHCHAN-CARD",
+    "scheme_name": "Pehchan Artisan National Identity Card Scheme",
+    "ministry_department": "Office of Development Commissioner (Handicrafts), Ministry of Textiles",
+    "target_crafts": ["Pottery", "Woodcraft", "Textiles", "Metalcraft", "Leather craft", "Paintings", "Bamboo craft", "All Traditional Crafts"],
+    "target_locations": ["All India"],
+    "eligible_business_statuses": ["Individual Artisan", "Self-Help Group (SHG)", "Cooperative Society"],
+    "eligible_registration_statuses": ["Pehchan Card Registered", "Udyam Registered", "Unregistered / Informal"],
+    "benefit_description": "National Artisan Identity Card issuing free stall access at Dilli Haat, Surajkund Crafts Mela, financial support for exhibitions, and subsidized health/life insurance.",
+    "eligibility_conditions": [
+      "Must be a practicing handicraft artisan in India.",
+      "Minimum age of 18 years."
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Two Passport-size Photographs",
+      "Sample Product Photo or Craft Work Evidence"
+    ],
+    "official_source_url": "https://handicrafts.nic.in/",
+    "last_verified_date": "2026-08-01",
+    "verification_status": "Official Verified"
+  },
+  {
+    "scheme_id": "SCHEME-PMEGP",
+    "scheme_name": "Prime Minister's Employment Generation Programme (PMEGP)",
+    "ministry_department": "Khadi and Village Industries Commission (KVIC), Ministry of MSME",
+    "target_crafts": ["Pottery", "Woodcraft", "Textiles", "Metalcraft", "Leather craft", "Bamboo craft", "All Traditional Crafts"],
+    "target_locations": ["All India"],
+    "eligible_business_statuses": ["Individual Artisan", "Self-Help Group (SHG)", "Micro Enterprise", "Cooperative Society"],
+    "eligible_registration_statuses": ["Pehchan Card Registered", "Udyam Registered", "Unregistered / Informal"],
+    "benefit_description": "Credit-linked capital margin money subsidy of 15% to 35% for setting up new micro-manufacturing craft units up to ₹50 Lakh project cost.",
+    "eligibility_conditions": [
+      "Any individual artisan above 18 years of age.",
+      "At least VIII standard pass for projects costing above ₹10 Lakh in manufacturing sector."
+    ],
+    "required_documents": [
+      "Project Report / Business Proposal",
+      "Aadhaar Card & PAN Card",
+      "Caste / Special Category Certificate (if claiming 35% subsidy)",
+      "Educational Qualification Certificate"
+    ],
+    "official_source_url": "https://www.kviconline.gov.in/pmegpeportal/",
+    "last_verified_date": "2026-08-01",
+    "verification_status": "Official Verified"
+  },
+  {
+    "scheme_id": "SCHEME-MAHILA-COIR",
+    "scheme_name": "Mahila Coir Yojana",
+    "ministry_department": "Coir Board, Ministry of Micro, Small & Medium Enterprises (MoMSME)",
+    "target_crafts": ["Textiles", "Bamboo craft", "Natural Fiber Craft", "All Traditional Crafts"],
+    "target_locations": ["All India"],
+    "eligible_business_statuses": ["Individual Artisan", "Self-Help Group (SHG)"],
+    "eligible_registration_statuses": ["Pehchan Card Registered", "Udyam Registered", "Unregistered / Informal"],
+    "benefit_description": "75% Subsidy on motorized ratts / coir spinning equipment for rural women artisans + monthly training stipend.",
+    "eligibility_conditions": [
+      "Exclusively for rural female artisans engaged in coir and natural fiber craft spinning.",
+      "Minimum age of 18 years."
+    ],
+    "required_documents": [
+      "Aadhaar Card",
+      "Rural Resident Certificate",
+      "Bank Account Details"
+    ],
+    "official_source_url": "http://coirboard.gov.in/",
+    "last_verified_date": "2026-08-01",
+    "verification_status": "Official Verified"
+  },
+  {
+    "scheme_id": "SCHEME-AHVY",
+    "scheme_name": "Ambedkar Hastshilp Vikas Yojana (AHVY)",
+    "ministry_department": "Office of Development Commissioner (Handicrafts), Ministry of Textiles",
+    "target_crafts": ["Pottery", "Woodcraft", "Textiles", "Metalcraft", "Leather craft", "Paintings", "Bamboo craft", "All Traditional Crafts"],
+    "target_locations": ["All India"],
+    "eligible_business_statuses": ["Self-Help Group (SHG)", "Cooperative Society", "Micro Enterprise"],
+    "eligible_registration_statuses": ["Pehchan Card Registered", "Udyam Registered", "Unregistered / Informal"],
+    "benefit_description": "Grant-in-aid support for artisan Self-Help Groups (SHGs) to establish Common Facility Centres (CFCs), raw material depots, and design technical workshops.",
+    "eligibility_conditions": [
+      "Artisan Self-Help Group (SHG) or Cooperative consisting of at least 10–20 practicing artisans.",
+      "Must be engaged in recognized traditional handicraft craft clusters."
+    ],
+    "required_documents": [
+      "SHG / Cooperative Registration Certificate",
+      "List of Artisan Members with Pehchan Card / Aadhaar details",
+      "Cluster Development Plan"
+    ],
+    "official_source_url": "https://handicrafts.nic.in/",
+    "last_verified_date": "2026-08-01",
+    "verification_status": "Official Verified"
+  },
+  {
+    "scheme_id": "SCHEME-KARNATAKA-ARTISAN",
+    "scheme_name": "Karnataka Artisan Development & Toolkit Subsidy Scheme",
+    "ministry_department": "Department of Handlooms & Textiles, Government of Karnataka",
+    "target_crafts": ["Pottery", "Channapatna Toy", "Terracotta", "Woodcraft", "Metalcraft", "All Traditional Crafts"],
+    "target_locations": ["Karnataka"],
+    "eligible_business_statuses": ["Individual Artisan", "Self-Help Group (SHG)"],
+    "eligible_registration_statuses": ["Pehchan Card Registered", "Udyam Registered", "Unregistered / Informal"],
+    "benefit_description": "Financial assistance of ₹10,000 for improved toolkits and capital subsidy for traditional artisans operating in Karnataka State.",
+    "eligibility_conditions": [
+      "Must be a domicile resident of Karnataka State.",
+      "Must be practicing a traditional Karnataka heritage craft (e.g. Channapatna Toys, Clay Pottery, Woodcarving)."
+    ],
+    "required_documents": [
+      "Karnataka Domicile / Resident Certificate",
+      "Aadhaar Card",
+      "Artisan Certificate / Ration Card"
+    ],
+    "official_source_url": "https://karnataka.gov.in/",
+    "last_verified_date": "2026-08-01",
+    "verification_status": "Official Verified"
+  }
+]

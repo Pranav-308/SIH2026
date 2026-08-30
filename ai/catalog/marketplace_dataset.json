@@ -1,0 +1,268 @@
+[
+  {
+    "product_id": "MP-POT-001",
+    "product_name": "Handcrafted Terracotta Clay Flower Vase",
+    "craft_type": "Terracotta",
+    "category": "Pottery",
+    "materials": ["Clay", "Terracotta"],
+    "description": "An exquisitely handcrafted terracotta clay flower vase featuring a contemporary geometric silhouette.",
+    "price_inr": 950.0,
+    "min_price_inr": 650.0,
+    "max_price_inr": 1200.0,
+    "median_price_inr": 900.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART001",
+      "artisan_name": "Artisan Guild ART001",
+      "location": "Ramanagara, Karnataka"
+    },
+    "tags": ["terracotta", "vase", "pottery", "home decor", "clay"]
+  },
+  {
+    "product_id": "MP-POT-002",
+    "product_name": "Jaipur Blue Pottery Ceramic Floral Vase",
+    "craft_type": "Blue Pottery",
+    "category": "Pottery",
+    "materials": ["Quartz Stone Powder", "Glass", "Multani Mitti"],
+    "description": "Authentic hand-painted Jaipur blue pottery decorative vase with traditional motifs.",
+    "price_inr": 1650.0,
+    "min_price_inr": 1100.0,
+    "max_price_inr": 2200.0,
+    "median_price_inr": 1600.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART002",
+      "artisan_name": "Craft Collective ART002",
+      "location": "Jaipur, Rajasthan"
+    },
+    "tags": ["blue pottery", "jaipur", "ceramic", "vase", "pottery"]
+  },
+  {
+    "product_id": "MP-BAM-001",
+    "product_name": "Handwoven Bamboo Storage Laundry Basket",
+    "craft_type": "Bamboo Weaving",
+    "category": "Bamboo craft",
+    "materials": ["Natural Bamboo", "Cane"],
+    "description": "Eco-friendly hand-woven natural bamboo storage basket with lid.",
+    "price_inr": 750.0,
+    "min_price_inr": 450.0,
+    "max_price_inr": 1100.0,
+    "median_price_inr": 700.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART003",
+      "artisan_name": "Artisan Guild ART003",
+      "location": "Guwahati, Assam"
+    },
+    "tags": ["bamboo", "basket", "bamboo craft", "storage", "eco-friendly"]
+  },
+  {
+    "product_id": "MP-BAM-002",
+    "product_name": "Artisanal Handcrafted Bamboo Table Lamp Shade",
+    "craft_type": "Bamboo Weaving",
+    "category": "Bamboo craft",
+    "materials": ["Bamboo", "Jute Rope"],
+    "description": "Minimalist hand-cut bamboo slice ambient table lamp shade.",
+    "price_inr": 1200.0,
+    "min_price_inr": 800.0,
+    "max_price_inr": 1800.0,
+    "median_price_inr": 1200.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART004",
+      "artisan_name": "Craft Collective ART004",
+      "location": "Agartala, Tripura"
+    },
+    "tags": ["bamboo", "lamp", "lighting", "bamboo craft", "decor"]
+  },
+  {
+    "product_id": "MP-WOOD-001",
+    "product_name": "Channapatna Eco Non-Toxic Wooden Stacking Toy",
+    "craft_type": "Channapatna Toy",
+    "category": "Wood craft",
+    "materials": ["Ivory Wood", "Vegetable Dyes"],
+    "description": "Traditional non-toxic lacware wooden ring stacking toy for toddlers.",
+    "price_inr": 680.0,
+    "min_price_inr": 450.0,
+    "max_price_inr": 950.0,
+    "median_price_inr": 680.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART005",
+      "artisan_name": "Artisan Guild ART005",
+      "location": "Channapatna, Karnataka"
+    },
+    "tags": ["channapatna", "wooden toy", "wood craft", "kids", "toy"]
+  },
+  {
+    "product_id": "MP-WOOD-002",
+    "product_name": "Carved Teak Wood Decorative Elephant Wall Panel",
+    "craft_type": "Woodcarving",
+    "category": "Wood craft",
+    "materials": ["Teak Wood"],
+    "description": "Intricately hand-carved teak wood wall panel featuring royal elephant parade.",
+    "price_inr": 2800.0,
+    "min_price_inr": 1800.0,
+    "max_price_inr": 4500.0,
+    "median_price_inr": 2600.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART006",
+      "artisan_name": "Craft Collective ART006",
+      "location": "Kochi, Kerala"
+    },
+    "tags": ["woodcarving", "teak wood", "wall art", "wood craft", "decor"]
+  },
+  {
+    "product_id": "MP-TEX-001",
+    "product_name": "Authentic Silk Bandhani Tie-Dye Dupatta",
+    "craft_type": "Bandhani",
+    "category": "Textiles",
+    "materials": ["Silk", "Natural Dyes"],
+    "description": "Hand-tied authentic silk Bandhani drape with rich traditional dots.",
+    "price_inr": 3800.0,
+    "min_price_inr": 2500.0,
+    "max_price_inr": 5500.0,
+    "median_price_inr": 3800.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART007",
+      "artisan_name": "Artisan Guild ART007",
+      "location": "Bhuj, Gujarat"
+    },
+    "tags": ["bandhani", "silk", "dupatta", "textiles", "saree"]
+  },
+  {
+    "product_id": "MP-TEX-002",
+    "product_name": "Bengal Hand-embroidered Kantha Stitch Cotton Quilt",
+    "craft_type": "Kantha",
+    "category": "Textiles",
+    "materials": ["Cotton", "Embroidery Thread"],
+    "description": "Reversible pure cotton throw quilt decorated with running Kantha embroidery.",
+    "price_inr": 2400.0,
+    "min_price_inr": 1600.0,
+    "max_price_inr": 3500.0,
+    "median_price_inr": 2300.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART008",
+      "artisan_name": "Craft Collective ART008",
+      "location": "Santiniketan, West Bengal"
+    },
+    "tags": ["kantha", "cotton", "quilt", "textiles", "embroidery"]
+  },
+  {
+    "product_id": "MP-MET-001",
+    "product_name": "Tribal Dhokra Brass Metal Cast Dancing Figurine",
+    "craft_type": "Dhokra",
+    "category": "Metal craft",
+    "materials": ["Brass", "Bell Metal", "Beeswax"],
+    "description": "Ancient lost-wax casted Dhokra brass metal figurine representing tribal heritage.",
+    "price_inr": 2500.0,
+    "min_price_inr": 1600.0,
+    "max_price_inr": 3800.0,
+    "median_price_inr": 2500.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART009",
+      "artisan_name": "Artisan Guild ART009",
+      "location": "Rayagada, Odisha"
+    },
+    "tags": ["dhokra", "brass", "metal craft", "figurine", "metalcraft"]
+  },
+  {
+    "product_id": "MP-MET-002",
+    "product_name": "Hand-engraved Antique Brass Diya Oil Lamp",
+    "craft_type": "Brassware",
+    "category": "Metal craft",
+    "materials": ["Brass"],
+    "description": "Solid brass ritual oil diya lamp hand-engraved with floral patterns.",
+    "price_inr": 1300.0,
+    "min_price_inr": 800.0,
+    "max_price_inr": 1900.0,
+    "median_price_inr": 1300.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART010",
+      "artisan_name": "Craft Collective ART010",
+      "location": "Moradabad, Uttar Pradesh"
+    },
+    "tags": ["brass", "diya", "metal craft", "lamp", "metalcraft"]
+  },
+  {
+    "product_id": "MP-LEA-001",
+    "product_name": "Handcrafted Kolhapuri Pure Leather Footwear Chappal",
+    "craft_type": "Kolhapuri Leather",
+    "category": "Leather craft",
+    "materials": ["Pure Buff Leather", "Vegetable Tanned Leather"],
+    "description": "Authentic hand-stitched Kolhapuri leather sandals crafted with vegetable tanned hide.",
+    "price_inr": 1450.0,
+    "min_price_inr": 900.0,
+    "max_price_inr": 2200.0,
+    "median_price_inr": 1400.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART011",
+      "artisan_name": "Artisan Guild ART011",
+      "location": "Kolhapur, Maharashtra"
+    },
+    "tags": ["leather craft", "kolhapuri", "chappal", "footwear", "leather"]
+  },
+  {
+    "product_id": "MP-LEA-002",
+    "product_name": "Embossed Camel Leather Journal Notebook",
+    "craft_type": "Leathercraft",
+    "category": "Leather craft",
+    "materials": ["Camel Leather", "Handmade Cotton Paper"],
+    "description": "Vintage embossed genuine leather journal with recycled handmade paper pages.",
+    "price_inr": 850.0,
+    "min_price_inr": 500.0,
+    "max_price_inr": 1300.0,
+    "median_price_inr": 800.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART012",
+      "artisan_name": "Craft Collective ART012",
+      "location": "Jaisalmer, Rajasthan"
+    },
+    "tags": ["leather craft", "journal", "notebook", "leather", "embossed"]
+  },
+  {
+    "product_id": "MP-PNT-001",
+    "product_name": "Madhubani Folk Art Canvas Wall Painting Framed",
+    "craft_type": "Madhubani Painting",
+    "category": "Paintings",
+    "materials": ["Handmade Canvas", "Natural Pigments"],
+    "description": "Original hand-painted Madhubani folk art depicting nature and mythological themes.",
+    "price_inr": 2800.0,
+    "min_price_inr": 1500.0,
+    "max_price_inr": 4500.0,
+    "median_price_inr": 2800.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART013",
+      "artisan_name": "Artisan Guild ART013",
+      "location": "Madhubani, Bihar"
+    },
+    "tags": ["madhubani", "painting", "paintings", "wall art", "folk art"]
+  },
+  {
+    "product_id": "MP-PNT-002",
+    "product_name": "Warli Tribal Canvas Painting Framed",
+    "craft_type": "Warli Painting",
+    "category": "Paintings",
+    "materials": ["Canvas", "Rice Paste Paint"],
+    "description": "Authentic Warli tribal wall painting rendered in white rice paste on earthy background.",
+    "price_inr": 1950.0,
+    "min_price_inr": 1100.0,
+    "max_price_inr": 3200.0,
+    "median_price_inr": 1900.0,
+    "platform": "Artisan Direct",
+    "artisan": {
+      "artisan_id": "ART014",
+      "artisan_name": "Craft Collective ART014",
+      "location": "Palghar, Maharashtra"
+    },
+    "tags": ["warli", "painting", "paintings", "tribal art", "wall decor"]
+  }
+]

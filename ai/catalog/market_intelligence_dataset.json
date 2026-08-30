@@ -1,0 +1,225 @@
+{
+  "_comment": "BENCHMARK / DEMO SYNTHETIC MARKETPLACE ACTIVITY DATASET FOR SIH26090 MVP",
+  "activities": [
+    {
+      "activity_id": "ACT-001",
+      "activity_type": "search",
+      "timestamp": "2026-08-28T10:00:00Z",
+      "category": "Pottery",
+      "craft_type": "Terracotta",
+      "location": "Karnataka",
+      "query_text": "terracotta vase",
+      "product_id": null,
+      "price_inr": null
+    },
+    {
+      "activity_id": "ACT-002",
+      "activity_type": "product_view",
+      "timestamp": "2026-08-28T10:01:15Z",
+      "category": "Pottery",
+      "craft_type": "Terracotta",
+      "location": "Karnataka",
+      "query_text": null,
+      "product_id": "MP-POT-001",
+      "price_inr": 950.0
+    },
+    {
+      "activity_id": "ACT-003",
+      "activity_type": "order",
+      "timestamp": "2026-08-28T10:05:00Z",
+      "category": "Pottery",
+      "craft_type": "Terracotta",
+      "location": "Karnataka",
+      "query_text": null,
+      "product_id": "MP-POT-001",
+      "price_inr": 950.0
+    },
+    {
+      "activity_id": "ACT-004",
+      "activity_type": "enquiry",
+      "timestamp": "2026-08-28T10:06:20Z",
+      "category": "Pottery",
+      "craft_type": "Terracotta",
+      "location": "Karnataka",
+      "query_text": "Can I customize the height of the terracotta vase?",
+      "product_id": "MP-POT-001",
+      "price_inr": 950.0
+    },
+    {
+      "activity_id": "ACT-005",
+      "activity_type": "search",
+      "timestamp": "2026-08-28T11:00:00Z",
+      "category": "Bamboo craft",
+      "craft_type": "Bamboo Weaving",
+      "location": "Assam",
+      "query_text": "bamboo storage basket",
+      "product_id": null,
+      "price_inr": null
+    },
+    {
+      "activity_id": "ACT-006",
+      "activity_type": "product_view",
+      "timestamp": "2026-08-28T11:02:10Z",
+      "category": "Bamboo craft",
+      "craft_type": "Bamboo Weaving",
+      "location": "Assam",
+      "query_text": null,
+      "product_id": "MP-BAM-001",
+      "price_inr": 750.0
+    },
+    {
+      "activity_id": "ACT-007",
+      "activity_type": "order",
+      "timestamp": "2026-08-28T11:10:00Z",
+      "category": "Bamboo craft",
+      "craft_type": "Bamboo Weaving",
+      "location": "Assam",
+      "query_text": null,
+      "product_id": "MP-BAM-001",
+      "price_inr": 750.0
+    },
+    {
+      "activity_id": "ACT-008",
+      "activity_type": "search",
+      "timestamp": "2026-08-28T12:00:00Z",
+      "category": "Wood craft",
+      "craft_type": "Channapatna Toy",
+      "location": "Karnataka",
+      "query_text": "channapatna wooden toy",
+      "product_id": null,
+      "price_inr": null
+    },
+    {
+      "activity_id": "ACT-009",
+      "activity_type": "product_view",
+      "timestamp": "2026-08-28T12:01:30Z",
+      "category": "Wood craft",
+      "craft_type": "Channapatna Toy",
+      "location": "Karnataka",
+      "query_text": null,
+      "product_id": "MP-WOOD-001",
+      "price_inr": 680.0
+    },
+    {
+      "activity_id": "ACT-010",
+      "activity_type": "order",
+      "timestamp": "2026-08-28T12:05:00Z",
+      "category": "Wood craft",
+      "craft_type": "Channapatna Toy",
+      "location": "Karnataka",
+      "query_text": null,
+      "product_id": "MP-WOOD-001",
+      "price_inr": 680.0
+    },
+    {
+      "activity_id": "ACT-011",
+      "activity_type": "search",
+      "timestamp": "2026-08-28T13:00:00Z",
+      "category": "Textiles",
+      "craft_type": "Bandhani",
+      "location": "Gujarat",
+      "query_text": "silk bandhani saree",
+      "product_id": null,
+      "price_inr": null
+    },
+    {
+      "activity_id": "ACT-012",
+      "activity_type": "product_view",
+      "timestamp": "2026-08-28T13:03:00Z",
+      "category": "Textiles",
+      "craft_type": "Bandhani",
+      "location": "Gujarat",
+      "query_text": null,
+      "product_id": "MP-TEX-001",
+      "price_inr": 3800.0
+    },
+    {
+      "activity_id": "ACT-013",
+      "activity_type": "order",
+      "timestamp": "2026-08-28T13:15:00Z",
+      "category": "Textiles",
+      "craft_type": "Bandhani",
+      "location": "Gujarat",
+      "query_text": null,
+      "product_id": "MP-TEX-001",
+      "price_inr": 3800.0
+    },
+    {
+      "activity_id": "ACT-014",
+      "activity_type": "search",
+      "timestamp": "2026-08-28T14:00:00Z",
+      "category": "Metal craft",
+      "craft_type": "Dhokra",
+      "location": "Odisha",
+      "query_text": "dhokra brass figurine",
+      "product_id": null,
+      "price_inr": null
+    },
+    {
+      "activity_id": "ACT-015",
+      "activity_type": "product_view",
+      "timestamp": "2026-08-28T14:02:00Z",
+      "category": "Metal craft",
+      "craft_type": "Dhokra",
+      "location": "Odisha",
+      "query_text": null,
+      "product_id": "MP-MET-001",
+      "price_inr": 2500.0
+    },
+    {
+      "activity_id": "ACT-016",
+      "activity_type": "search",
+      "timestamp": "2026-08-28T15:00:00Z",
+      "category": "Leather craft",
+      "craft_type": "Kolhapuri Leather",
+      "location": "Maharashtra",
+      "query_text": "kolhapuri chappal",
+      "product_id": null,
+      "price_inr": null
+    },
+    {
+      "activity_id": "ACT-017",
+      "activity_type": "product_view",
+      "timestamp": "2026-08-28T15:01:00Z",
+      "category": "Leather craft",
+      "craft_type": "Kolhapuri Leather",
+      "location": "Maharashtra",
+      "query_text": null,
+      "product_id": "MP-LEA-001",
+      "price_inr": 1450.0
+    },
+    {
+      "activity_id": "ACT-018",
+      "activity_type": "search",
+      "timestamp": "2026-08-28T16:00:00Z",
+      "category": "Paintings",
+      "craft_type": "Madhubani Painting",
+      "location": "Bihar",
+      "query_text": "madhubani painting framed",
+      "product_id": null,
+      "price_inr": null
+    },
+    {
+      "activity_id": "ACT-019",
+      "activity_type": "product_view",
+      "timestamp": "2026-08-28T16:02:00Z",
+      "category": "Paintings",
+      "craft_type": "Madhubani Painting",
+      "location": "Bihar",
+      "query_text": null,
+      "product_id": "MP-PNT-001",
+      "price_inr": 2800.0
+    },
+    {
+      "activity_id": "ACT-020",
+      "activity_type": "order",
+      "timestamp": "2026-08-28T16:20:00Z",
+      "category": "Paintings",
+      "craft_type": "Madhubani Painting",
+      "location": "Bihar",
+      "query_text": null,
+      "product_id": "MP-PNT-001",
+      "price_inr": 2800.0
+    }
+  ]
+}
